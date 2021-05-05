@@ -15,7 +15,7 @@ Rmbed: Number of Bedrooms
 
 Sfla: Square Footage of Living Area
 
-The vegetation_front attribute was obtained by doing a sql code which is attached and named as 
+The vegetation_front attribute was obtained by doing a sql code which is attached and named as part1_studentpresentation_researchtopic.sql
 
 # Shapefile data was retrieved from:
 

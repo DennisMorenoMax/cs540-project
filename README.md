@@ -1,5 +1,5 @@
 # cs540-project
-Database and Data Retrieval to compute the computational statistics analysis by the use of the sales analysis dataset and some data available in shapefile format from the volusia county at Daytona Beach, FL
+Database and Data Retrieval to compute the computational statistics analysis by the use of the sales analysis dataset (part1_project_cs540_data.csv) and some data available in shapefile format from the volusia county at Daytona Beach, FL
 
 The final attributes that I will be using to compute the computational statistics on QGIS will be: aprland, aprbldg, aprtot, rmbed, sfla, sale_date, water_front, vegetation_front, crime, health zones, airport, shopping centers, parcels that has pool, census tracts, where the sale_date was split it up in day, month, and year.
 

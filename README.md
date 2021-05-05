@@ -15,6 +15,8 @@ Rmbed: Number of Bedrooms
 
 Sfla: Square Footage of Living Area
 
+The vegetation_front attribute was obtained by doing a sql code which is attached and named as 
+
 # Shapefile data was retrieved from:
 
 http://maps.vcgov.org/gis/download/shapes.htm

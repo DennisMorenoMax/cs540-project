@@ -35,7 +35,7 @@ Shopping Centers:
 
 # Convert shapefile into data on PGadmin:
 
-Use the get_load_gis.bat file to run and convert the shapefile into data. The respective procedure on how to do it is explained on the how_to_load_shapefiles_to_pgadmin_as_numerical_data.txt file.
+Use the get_load_gis.bat file to run and convert the shapefile into data. The respective procedure on how to do this step by step is explained on the how_to_load_shapefiles_to_pgadmin_as_numerical_data.txt file.
 
 # Computational Statistics
 

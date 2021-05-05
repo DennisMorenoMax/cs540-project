@@ -49,4 +49,9 @@ In order to perform the computational statistics, you will have to be on QGIS an
 
 After that, you can select the respective attribute and a bar will display statistics calculations such as max, min, stdev, mean, etc.
 
-If you would like to know more about the project, there is a zoom link which contains an explanation of the scope of the project.
+# Brief video explaining about the scope of the project:
+
+If you would like to know more about the project, there is a zoom file which contains an explanation of the scope of the project or you can use the following link to youtube:
+
+https://youtu.be/XnfAGGIevsE
+

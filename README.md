@@ -35,6 +35,8 @@ Shopping Centers:
 
 ![image](https://user-images.githubusercontent.com/82966526/117110994-f5f0f700-ad54-11eb-810e-a97fc78f9372.png)
 
+The QGIS file used for this project is attached and named as spring_volusia_2021_project.qgz
+
 # Convert shapefile into data on PGadmin:
 
 Use the get_load_gis.bat file to run and convert the shapefile into data. The respective procedure on how to do this step by step is explained on the how_to_load_shapefiles_to_pgadmin_as_numerical_data.txt file.

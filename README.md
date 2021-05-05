@@ -1,7 +1,7 @@
 # cs540-project
-Database and Data Retrieval to compute the computational statistics analysis of the sales analysis dataset from the volusia county at Daytona Beach, FL
+Database and Data Retrieval to compute the computational statistics analysis by the use of the sales analysis dataset and some data available in shapefile format from the volusia county at Daytona Beach, FL
 
-The final attributes that I will be using to compute the computational statistics on QGIS will be: aprland, aprbldg, aprtot, rmbed, sfla, sale_date, water_front, vegetation_front, crime, health zones, airport, parcels that has pool, census tracts, where the sale_date was split it up in day, month, and year.
+The final attributes that I will be using to compute the computational statistics on QGIS will be: aprland, aprbldg, aprtot, rmbed, sfla, sale_date, water_front, vegetation_front, crime, health zones, airport, shopping centers, parcels that has pool, census tracts, where the sale_date was split it up in day, month, and year.
 
 The abbreviations of some attributes used:
 
@@ -39,9 +39,10 @@ Use the get_load_gis.bat file to run and convert the shapefile into data. The re
 
 # Computational Statistics
 
-On QGIS go to the view tab and the click on panel and then select statistics:
+In order to perform the computational statistics, you will have to be on QGIS and then go to the view tab and click on panel and finally select statistics:
 
 ![image](https://user-images.githubusercontent.com/82966526/117111330-6ac43100-ad55-11eb-8b1a-3eebe77af131.png)
 
+After that, you can select the respective attribute and a bar will display statistics calculations such as max, min, stdev, mean, etc.
 
 If you would like to know more about the project, there is a zoom link which contains an explanation of the scope of the project.

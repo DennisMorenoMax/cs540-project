@@ -1,5 +1,5 @@
 # cs540-project
-Statistics panel and how to use with QGIS by using the sales analysis dataset (part1_project_cs540_data.csv) which was obtained from pgAdmin and then export it to QGIS and some data available in shapefile format from the volusia county at Daytona Beach, FL.
+Statistics panel and how to use with QGIS by using the sales analysis dataset (part1_project_cs540_data.csv) which was obtained from pgAdmin and then export some of those attributes to QGIS and some data available in shapefile format from the volusia county at Daytona Beach, FL.
 
 The final attributes that I will be using to show how the Statistics panel works on QGIS will be: sale_date, water_front, vegetation_front and parcels that has pool from pgAdmin and then crime, health zones, airport, shopping centers, census blocks and census tracts from shapefiles uploaded to QGIS.
 

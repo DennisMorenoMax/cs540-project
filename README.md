@@ -1,19 +1,7 @@
 # cs540-project
-Database and Data Retrieval to compute the computational statistics analysis by the use of the sales analysis dataset (part1_project_cs540_data.csv) and some data available in shapefile format from the volusia county at Daytona Beach, FL
+Statistics panel and how to use with QGIS by using the sales analysis dataset (part1_project_cs540_data.csv) which was obtained from pgAdmin and then export it to QGIS and some data available in shapefile format from the volusia county at Daytona Beach, FL.
 
-The final attributes that I will be using to compute the computational statistics on QGIS will be: aprland, aprbldg, aprtot, rmbed, sfla, sale_date, water_front, vegetation_front, crime, health zones, airport, shopping centers, parcels that has pool, census tracts, where the sale_date was split it up in day, month, and year.
-
-The abbreviations of some attributes used:
-
-Aprland: Total Land Just Value
-
-Aprbldg: Total Building(s) Just Value
-
-Aprtot: Total Just Value
-
-Rmbed: Number of Bedrooms
-
-Sfla: Square Footage of Living Area
+The final attributes that I will be using to show how the Statistics panel works on QGIS will be: sale_date, water_front, vegetation_front and parcels that has pool from pgAdmin and then crime, health zones, airport, shopping centers, census blocks and census tracts from shapefiles uploaded to QGIS.
 
 The vegetation_front attribute was obtained by doing a sql code which is attached and named as part1_studentpresentation_researchtopic.sql
 

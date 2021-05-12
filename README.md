@@ -39,9 +39,10 @@ After that, you can select the respective attribute and a bar will display stati
 
 All that is explained in the following video.
 
-# Brief video explaining about the use of the Statistics panel on QGIS:
+# Brief video and pdf file explaining about the use of the Statistics panel on QGIS:
 
 If you would like to know more about the project you can use the following link to youtube:
 
 https://youtu.be/VuFDGv50hnQ
 
+Or you can take a look at the Computational Statistics.pdf file where I explained in more detail the use of the Statistics tool on QGIS.

@@ -45,4 +45,4 @@ If you would like to know more about the project you can use the following link 
 
 https://youtu.be/VuFDGv50hnQ
 
-Or you can take a look at the Computational Statistics.pdf file where I explained in more detail the use of the Statistics tool on QGIS.
+Or you can take a look at the Computational Statistics.pdf file where I explained in more detail about the use of the Statistics tool on QGIS.
